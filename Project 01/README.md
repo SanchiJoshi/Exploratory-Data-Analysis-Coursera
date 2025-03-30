@@ -1,2 +1,2 @@
 # Project 01
-Please Visit [https://github.com/UtkarshPathrabe/ExData_Plotting1](https://github.com/UtkarshPathrabe/ExData_Plotting1) for more details.  
+Please Visit [https://github.com/SanchiJoshi/ExData_Plotting1]) for more details.  
